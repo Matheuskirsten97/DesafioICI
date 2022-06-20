@@ -1,0 +1,17 @@
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\ProvaCandidato.Data.dll.config
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\ProvaCandidato.Data.dll
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\ProvaCandidato.Data.pdb
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.dll
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.xml
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.Data.dll.config
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.Data.dll
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.Data.pdb
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.Migrations.Initial.resources
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.Migrations.AJUSTES_Validacoes.resources
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.csproj.GenerateResource.cache
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.csproj.CoreCompileInputs.cache
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.csproj.CopyComplete
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.dll
+C:\Users\bopki\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.pdb
